@@ -96,9 +96,7 @@
 
 ## 📈 Currently Working On
 
-- Further developing DigiMob
-- More robust pose-based movement analysis
-- Computer vision on embedded devices
+- 📱 Porting the DigiMob app to an Android tablet
 
 ---
 
@@ -138,9 +136,7 @@ Email: yahiabannour@outlook.fr
 
 ### 📈 Aktuell arbeite ich an
 
-- Weiterentwicklung von DigiMob
-- Robusterer Bewegungsanalyse auf Basis von Posenerkennung
-- Computer Vision auf eingebetteten Geräten
+- 📱 Portierung der DigiMob-App auf ein Android-Tablet
 
 ### 📫 Kontakt
 
