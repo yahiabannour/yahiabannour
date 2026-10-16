@@ -1,23 +1,23 @@
-# Hi, I'm Yahia Bannour 👋
+# Hallo, ich bin Yahia Bannour 👋
 
-Student at **Hochschule Hannover**. I like building software that touches the real world: computer vision,
-embedded systems and desktop applications.
+Student an der **Hochschule Hannover**. Am liebsten baue ich Software, die mit der echten Welt zu tun hat:
+Computer Vision, eingebettete Systeme und Desktop-Anwendungen.
 
-## Projects
+## Projekte
 
-| Project | What it is | Tech |
-|---------|------------|------|
-| [**DigiMob**](https://github.com/YOUR-USERNAME/digimob) | Rehabilitation exercise app: webcam pose tracking counts repetitions and gives spoken feedback. 94 automated tests. | Python, MediaPipe, OpenCV, Tkinter |
-| [**Raspberry Pi patient monitoring**](https://github.com/YOUR-USERNAME/rpi-patient-monitoring) | Privacy-friendly eye, mouth and body monitoring, controlled with one button and an RGB LED | Python, MediaPipe, Raspberry Pi 5, GPIO, systemd |
-| [**Gomoku**](https://github.com/YOUR-USERNAME/gomoku-javafx) | Board game with a Minimax and alpha-beta AI, JavaFX GUI and console mode, MVC and Strategy pattern | Java 17, JavaFX, Maven |
-| [**Function plotter**](https://github.com/YOUR-USERNAME/python-function-plotter) | 2D, parametric, Bode and 3D plots with curve analysis (team project) | Python, Tkinter, Matplotlib, NumPy |
+| Projekt | Worum es geht | Technik |
+|---------|---------------|---------|
+| [**DigiMob**](https://github.com/YOUR-USERNAME/digimob) | Reha-Übungs-App: Posenerkennung per Webcam zählt Wiederholungen und gibt gesprochenes Feedback. 94 automatisierte Tests. | Python, MediaPipe, OpenCV, Tkinter |
+| [**Patienten-Monitoring mit dem Raspberry Pi**](https://github.com/YOUR-USERNAME/rpi-patient-monitoring) | Datensparsame Erfassung von Augen-, Mund- und Körperbewegungen, bedient mit einem Taster und einer RGB-LED | Python, MediaPipe, Raspberry Pi 5, GPIO, systemd |
+| [**Gomoku**](https://github.com/YOUR-USERNAME/gomoku-javafx) | Brettspiel mit Minimax-KI und Alpha-Beta-Pruning, JavaFX-Oberfläche und Konsolenmodus, MVC und Strategy-Pattern | Java 17, JavaFX, Maven |
+| [**Funktionsplotter**](https://github.com/YOUR-USERNAME/python-function-plotter) | 2D-, Parameter-, Bode- und 3D-Plots mit Kurvenanalyse (Teamprojekt) | Python, Tkinter, Matplotlib, NumPy |
 
-## Skills
+## Kenntnisse
 
-**Languages:** Python · Java  
-**Libraries and tools:** MediaPipe · OpenCV · NumPy · Matplotlib · Tkinter · JavaFX · pytest · Maven · Git  
-**Hardware:** Raspberry Pi · GPIO · camera modules · Linux / systemd
+**Sprachen:** Python · Java  
+**Bibliotheken und Werkzeuge:** MediaPipe · OpenCV · NumPy · Matplotlib · Tkinter · JavaFX · pytest · Maven · Git  
+**Hardware:** Raspberry Pi · GPIO · Kameramodule · Linux / systemd
 
-## Contact
+## Kontakt
 
 📧 yahiabannour@outlook.fr
