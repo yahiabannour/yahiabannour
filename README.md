@@ -1,6 +1,7 @@
 # Hi, I'm Yahia Bannour 👋
 
-🎓 Student at Hochschule Hannover (University of Applied Sciences and Arts)  
+🎓 Electrical Engineering & Information Technology Student – specialisation in Computer Engineering
+(Ingenieurinformatik), Hochschule Hannover  
 🤖 Focused on Computer Vision, Pose Estimation & Embedded Systems  
 🚀 Building camera-based applications for healthcare – from Raspberry Pi to desktop  
 
@@ -72,6 +73,9 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![MediaPipe](https://img.shields.io/badge/mediapipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -113,7 +117,7 @@ Email: yahiabannour@outlook.fr
 
 ## Hallo, ich bin Yahia Bannour 👋
 
-🎓 Student an der Hochschule Hannover  
+🎓 Student der Elektrotechnik und Informationstechnik, Vertiefung Ingenieurinformatik – Hochschule Hannover  
 🤖 Schwerpunkte: Computer Vision, Posenerkennung & eingebettete Systeme  
 🚀 Ich baue kamerabasierte Anwendungen für das Gesundheitswesen – vom Raspberry Pi bis zum Desktop  
 
