@@ -129,10 +129,10 @@ Email: yahiabannour@outlook.fr
 
 ### 🏆 Projekte
 
-- 🏥 **[DigiMob](https://github.com/yahiabannour/digimob)** – Reha-Übungs-App: neue Zählalgorithmen für 8 Übungen, Live-Tests mit einer Pflegekraft der MHH, 3D-Anleitungsvideos mit Blender, 94 automatisierte Tests
-- 🧠 **[Patienten-Monitoring mit dem Raspberry Pi](https://github.com/yahiabannour/rpi-patient-monitoring)** – Augen-, Mund- und Körpererkennung mit MediaPipe, Bedienung mit einem Taster und RGB-LED, Autostart mit systemd
-- 🎮 **[Gomoku](https://github.com/yahiabannour/gomoku-javafx)** – Brettspiel in JavaFX mit Minimax-KI und Alpha-Beta-Pruning, MVC und Strategy-Pattern
-- 📈 **[Funktionsplotter](https://github.com/yahiabannour/python-function-plotter)** – 2D-, Parameter-, Bode- und 3D-Plots mit Kurvenanalyse
+- 🏥 **[DigiMob](https://github.com/yahiabannour/digimob/blob/main/README.de.md)** – Reha-Übungs-App: neue Zählalgorithmen für 8 Übungen, Live-Tests mit einer Pflegekraft der MHH, 3D-Anleitungsvideos mit Blender, 94 automatisierte Tests
+- 🧠 **[Patienten-Monitoring mit dem Raspberry Pi](https://github.com/yahiabannour/rpi-patient-monitoring/blob/main/README.de.md)** – Augen-, Mund- und Körpererkennung mit MediaPipe, Bedienung mit einem Taster und RGB-LED, Autostart mit systemd
+- 🎮 **[Gomoku](https://github.com/yahiabannour/gomoku-javafx/blob/main/README.de.md)** – Brettspiel in JavaFX mit Minimax-KI und Alpha-Beta-Pruning, MVC und Strategy-Pattern
+- 📈 **[Funktionsplotter](https://github.com/yahiabannour/python-function-plotter/blob/main/README.de.md)** – 2D-, Parameter-, Bode- und 3D-Plots mit Kurvenanalyse
 
 ### 📈 Aktuell arbeite ich an
 
