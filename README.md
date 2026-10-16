@@ -107,7 +107,7 @@ Email: yahiabannour@outlook.fr
 
 ---
 
-> "Turning camera pixels into meaningful movement."
+> "Turning embedded systems into intelligent systems."
 
 ---
 
