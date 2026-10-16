@@ -107,7 +107,7 @@ Email: yahiabannour@outlook.fr
 
 ---
 
-> "Turning embedded systems into intelligent systems."
+> "Bridging hardware and software to build smarter systems."
 
 ---
 
