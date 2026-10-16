@@ -1,54 +1,145 @@
-# Hallo, ich bin Yahia Bannour 👋
+# Hi, I'm Yahia Bannour 👋
 
-Student an der **Hochschule Hannover**. Am liebsten baue ich Software, die mit der echten Welt zu tun hat:
-Computer Vision, eingebettete Systeme und Desktop-Anwendungen.
+🎓 Student at Hochschule Hannover (University of Applied Sciences and Arts)  
+🤖 Focused on Computer Vision, Pose Estimation & Embedded Systems  
+🚀 Building camera-based applications for healthcare – from Raspberry Pi to desktop  
 
-## Projekte
+---
 
-| Projekt | Worum es geht | Technik |
-|---------|---------------|---------|
-| [**DigiMob**](https://github.com/yahiabannour/digimob) | Reha-Übungs-App: Posenerkennung per Webcam zählt Wiederholungen und gibt gesprochenes Feedback. Zählalgorithmen, 3D-Anleitungsvideos (Blender) und 94 automatisierte Tests. | Python, MediaPipe, OpenCV, Tkinter, Blender |
-| [**Patienten-Monitoring mit dem Raspberry Pi**](https://github.com/yahiabannour/rpi-patient-monitoring) | Datensparsame Erfassung von Augen-, Mund- und Körperbewegungen, bedient mit einem Taster und einer RGB-LED | Python, MediaPipe, Raspberry Pi 5, GPIO, systemd |
-| [**Gomoku**](https://github.com/yahiabannour/gomoku-javafx) | Brettspiel mit Minimax-KI und Alpha-Beta-Pruning, JavaFX-Oberfläche und Konsolenmodus, MVC und Strategy-Pattern | Java 17, JavaFX, Maven |
-| [**Funktionsplotter**](https://github.com/yahiabannour/python-function-plotter) | 2D-, Parameter-, Bode- und 3D-Plots mit Kurvenanalyse | Python, Tkinter, Matplotlib, NumPy |
+## 🔥 What I Do
 
-## Kenntnisse
+- Pose estimation & computer vision with MediaPipe and OpenCV  
+- Embedded systems on the Raspberry Pi (GPIO, camera, systemd)  
+- Desktop applications in Python (Tkinter) and Java (JavaFX)  
+- Automated testing with pytest  
+- 3D animation and rendering with Blender  
 
-**Sprachen:** Python · Java  
-**Bibliotheken und Werkzeuge:** MediaPipe · OpenCV · NumPy · Matplotlib · Tkinter · JavaFX · pytest · Maven · Git · Blender  
-**Hardware:** Raspberry Pi · GPIO · Kameramodule · Linux / systemd
+---
 
-## Kontakt
+## 🏆 Featured Projects
 
-📧 yahiabannour@outlook.fr
+### 🏥 DigiMob – Camera-Based Rehabilitation Exercises
+> Python + MediaPipe + OpenCV + Tkinter + Blender
+
+- New counting algorithms for 8 rehab exercises, based on joint angles
+- Developed and validated in live tests with a nurse from Hannover Medical School (MHH)
+- 3D instruction videos rendered in Blender, replacing the old example photos
+- Pose detection in a background thread – up to 2.3× higher frame rate
+- 94 automated tests, including a system test with 58 real recordings
+
+🔗 Repo: https://github.com/yahiabannour/digimob
+
+---
+
+### 🧠 Raspberry Pi Patient Monitoring
+> Raspberry Pi 5 + MediaPipe + GPIO + systemd
+
+- Eye, mouth and body tracking with MediaPipe (FaceMesh & Pose)
+- Closed-eye detection via the Eye Aspect Ratio
+- One-button control with RGB LED feedback (state machine)
+- Privacy by design: only anonymous landmark data, never images
+- Autostart as a systemd service
+
+🔗 Repo: https://github.com/yahiabannour/rpi-patient-monitoring
+
+---
+
+### 🎮 Gomoku – Five in a Row (JavaFX)
+> Java 17 + JavaFX + MVC + Strategy Pattern + XML Save/Load
+
+- Full MVC architecture with GUI and console mode
+- Three AI strategies: random, rule-based and Minimax with alpha-beta pruning
+- Adjustable search depth and a move log with computing time per AI move
+- XML-based game save/load and regex-validated command-line parameters
+
+🔗 Repo: https://github.com/yahiabannour/gomoku-javafx
+
+---
+
+### 📈 Function Plotter (Python + Matplotlib)
+> Python + Tkinter + Matplotlib + NumPy
+
+- 2D, parametric, Bode and 3D plots
+- Curve analysis: derivatives, roots, extrema and inflection points
+- GUI and config-file mode
+
+🔗 Repo: https://github.com/yahiabannour/python-function-plotter
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![MediaPipe](https://img.shields.io/badge/mediapipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔌 Hardware
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
+
+---
+
+## 📈 Currently Working On
+
+- Further developing DigiMob
+- More robust pose-based movement analysis
+- Computer vision on embedded devices
+
+---
+
+## 📫 Connect With Me
+
+Email: yahiabannour@outlook.fr
+
+---
+
+> "Turning camera pixels into meaningful movement."
 
 ---
 
 <details>
-<summary><b>🇬🇧 English version</b></summary>
+<summary><b>🇩🇪 Deutsche Version</b></summary>
 
-## Hi, I'm Yahia Bannour 👋
+## Hallo, ich bin Yahia Bannour 👋
 
-Student at **Hochschule Hannover** (University of Applied Sciences and Arts). I most enjoy building software that
-connects to the real world: computer vision, embedded systems and desktop applications.
+🎓 Student an der Hochschule Hannover  
+🤖 Schwerpunkte: Computer Vision, Posenerkennung & eingebettete Systeme  
+🚀 Ich baue kamerabasierte Anwendungen für das Gesundheitswesen – vom Raspberry Pi bis zum Desktop  
 
-### Projects
+### 🔥 Was ich mache
 
-| Project | What it is | Tech |
-|---------|------------|------|
-| [**DigiMob**](https://github.com/yahiabannour/digimob/blob/main/README.en.md) | Rehabilitation exercise app: webcam pose estimation counts repetitions and gives spoken feedback. Counting algorithms, 3D instruction videos (Blender) and 94 automated tests. | Python, MediaPipe, OpenCV, Tkinter, Blender |
-| [**Raspberry Pi patient monitoring**](https://github.com/yahiabannour/rpi-patient-monitoring/blob/main/README.en.md) | Privacy-friendly tracking of eye, mouth and body movements, controlled with one push button and an RGB LED | Python, MediaPipe, Raspberry Pi 5, GPIO, systemd |
-| [**Gomoku**](https://github.com/yahiabannour/gomoku-javafx/blob/main/README.en.md) | Board game with a Minimax AI and alpha-beta pruning, JavaFX GUI and console mode, MVC and Strategy pattern | Java 17, JavaFX, Maven |
-| [**Function plotter**](https://github.com/yahiabannour/python-function-plotter/blob/main/README.en.md) | 2D, parametric, Bode and 3D plots with curve analysis | Python, Tkinter, Matplotlib, NumPy |
+- Posenerkennung & Computer Vision mit MediaPipe und OpenCV  
+- Eingebettete Systeme auf dem Raspberry Pi (GPIO, Kamera, systemd)  
+- Desktop-Anwendungen in Python (Tkinter) und Java (JavaFX)  
+- Automatisierte Tests mit pytest  
+- 3D-Animation und Rendering mit Blender  
 
-### Skills
+### 🏆 Projekte
 
-**Languages:** Python · Java  
-**Libraries and tools:** MediaPipe · OpenCV · NumPy · Matplotlib · Tkinter · JavaFX · pytest · Maven · Git · Blender  
-**Hardware:** Raspberry Pi · GPIO · camera modules · Linux / systemd
+- 🏥 **[DigiMob](https://github.com/yahiabannour/digimob)** – Reha-Übungs-App: neue Zählalgorithmen für 8 Übungen, Live-Tests mit einer Pflegekraft der MHH, 3D-Anleitungsvideos mit Blender, 94 automatisierte Tests
+- 🧠 **[Patienten-Monitoring mit dem Raspberry Pi](https://github.com/yahiabannour/rpi-patient-monitoring)** – Augen-, Mund- und Körpererkennung mit MediaPipe, Bedienung mit einem Taster und RGB-LED, Autostart mit systemd
+- 🎮 **[Gomoku](https://github.com/yahiabannour/gomoku-javafx)** – Brettspiel in JavaFX mit Minimax-KI und Alpha-Beta-Pruning, MVC und Strategy-Pattern
+- 📈 **[Funktionsplotter](https://github.com/yahiabannour/python-function-plotter)** – 2D-, Parameter-, Bode- und 3D-Plots mit Kurvenanalyse
 
-### Contact
+### 📈 Aktuell arbeite ich an
 
-📧 yahiabannour@outlook.fr
+- Weiterentwicklung von DigiMob
+- Robusterer Bewegungsanalyse auf Basis von Posenerkennung
+- Computer Vision auf eingebetteten Geräten
+
+### 📫 Kontakt
+
+E-Mail: yahiabannour@outlook.fr
 
 </details>
