@@ -2,7 +2,7 @@
 
 🎓 Electrical Engineering & Information Technology Student – specialisation in Computer Engineering
 (Ingenieurinformatik), Hochschule Hannover  
-🤖 Focused on Computer Vision, Pose Estimation & Embedded Systems  
+🤖 Focused on AI, Computer Vision & Embedded Systems  
 🚀 Building camera-based applications for healthcare – from Raspberry Pi to desktop  
 
 ---
@@ -117,7 +117,7 @@ Email: yahiabannour@outlook.fr
 ## Hallo, ich bin Yahia Bannour 👋
 
 🎓 Student der Elektrotechnik und Informationstechnik, Vertiefung Ingenieurinformatik – Hochschule Hannover  
-🤖 Schwerpunkte: Computer Vision, Posenerkennung & eingebettete Systeme  
+🤖 Schwerpunkte: KI, Computer Vision & eingebettete Systeme  
 🚀 Ich baue kamerabasierte Anwendungen für das Gesundheitswesen – vom Raspberry Pi bis zum Desktop  
 
 ### 🔥 Was ich mache
