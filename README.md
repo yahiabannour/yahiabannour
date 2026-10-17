@@ -76,6 +76,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Assembly (8051)](https://img.shields.io/badge/Assembly%20(8051)-525252?style=for-the-badge&logo=intel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
 
 ### ⚙️ Frameworks & Tools
 ![MediaPipe](https://img.shields.io/badge/mediapipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
