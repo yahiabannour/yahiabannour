@@ -79,6 +79,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 ![Assembly (8051)](https://img.shields.io/badge/Assembly%20%288051%29-525252?style=for-the-badge&logo=intel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![MediaPipe](https://img.shields.io/badge/mediapipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
