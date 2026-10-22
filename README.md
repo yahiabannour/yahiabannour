@@ -30,7 +30,7 @@
 - Pose detection in a background thread – up to 2.3× higher frame rate
 - Over 360 automated tests – system tests replay 76 real recordings and prove both apps count the same
 
-🔗 Repo: https://github.com/yahiabannour/digimob
+🔗 Repo: https://github.com/yahiabannour/digimob · 📱 Android app: https://github.com/yahiabannour/digimob/tree/main/android
 
 ---
 
